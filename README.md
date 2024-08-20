@@ -1,2 +1,3 @@
 # Primer proyecto
-## LVM
+## Construcción de Software
+Autor: LVM
